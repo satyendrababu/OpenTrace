@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789512816623",
+    "firebase_url": "https://opentrace-a18d9.firebaseio.com",
+    "project_id": "opentrace-a18d9",
+    "storage_bucket": "opentrace-a18d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789512816623:android:27dca3478468fc65bd981a",
+        "android_client_info": {
+          "package_name": "io.bluetrace.opentrace.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789512816623-vi8c0ulukgchjn7ceumhf09qihqji88g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.bluetrace.opentrace.stg",
+            "certificate_hash": "acb1b184321f7b79ba029a8424609725a34417f0"
+          }
+        },
+        {
+          "client_id": "789512816623-97sl21vtd49m005a9oo2gajkbkghacee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZoqGm6vDmJGXRR0Jln5b2MxfmTDUcQgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789512816623-97sl21vtd49m005a9oo2gajkbkghacee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
