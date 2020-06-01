@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:789512816623:android:27dca3478468fc65bd981a",
         "android_client_info": {
-          "package_name": "io.bluetrace.opentrace.stg"
+          "package_name": "io.bluetrace.opentrace"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "789512816623-vi8c0ulukgchjn7ceumhf09qihqji88g.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "io.bluetrace.opentrace.stg",
+            "package_name": "io.bluetrace.opentrace",
             "certificate_hash": "acb1b184321f7b79ba029a8424609725a34417f0"
           }
         },
